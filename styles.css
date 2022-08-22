@@ -1,0 +1,54 @@
+body {
+    font-family: 'Playfair Display', serif;
+  }
+  
+  .ull li {
+    display: inline-block;
+    margin-right: 100px;
+  }
+  .ull li:last-child {
+    margin: 0;
+  }
+  .ull a {
+    color: #7D7D7D;
+    text-decoration: none;
+  }
+  .ull a:hover {
+    color: #03A9F4;
+  }
+  .photoblock{
+    width: 420px;
+  }
+  .photoblock h3{
+    color: #b4ad9e;;
+    font-family:"Ubuntu";
+    font-size: 14px;
+    margin-top: 62px;
+  }
+  .photoblock h2{
+    color:#626262;
+    font-weight: 400; 
+      }
+      table {
+        border-collapse: separate;
+        border-spacing: 64px 20px;
+        margin: 0 160px;
+      }
+      .ull{
+        margin: 71px 350px 92px;
+      }
+    .ter{
+    height: 60px;
+    border: 1px solid #626262;
+    color:#626262 ;
+    padding: 8px 46px;
+    font-size: 15px;
+    margin-left:590px;
+    margin-bottom:40px;
+      }
+      
+
+
+
+
+
